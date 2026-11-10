@@ -4,33 +4,29 @@
 
 ![підсумок тестів](01_tests.png)
 
-### після дії (запуск / форма)
+### після дії: результат на екрані
 
-![після дії (запуск / форма)](02_dash1_action.png)
+![після дії: результат на екрані](02_dash1_action.png)
 
-### вивантажений файл, як у Excel
+### вивантажений файл, відкритий як таблиця
 
-![вивантажений файл, як у Excel](02_dash1_export1.png)
+![вивантажений файл, відкритий як таблиця](02_dash1_export1.png)
 
 ### дашборд: перший екран
 
 ![дашборд: перший екран](02_dash1_overview.png)
 
-### дашборд повністю
+### дашборд: уся сторінка
 
-![дашборд повністю](02_dash1_overview_full.png)
+![дашборд: уся сторінка](02_dash1_overview_full.png)
 
-### вкладка
+### вкладка: service requests queue
 
-![вкладка](02_dash1_tab1_interactive-bot-simulator.png)
+![вкладка: service requests queue](02_dash1_tab2_service-requests-queue.png)
 
-### вкладка
+### вкладка: editable pages prices contac
 
-![вкладка](02_dash1_tab2_service-requests-queue.png)
-
-### вкладка
-
-![вкладка](02_dash1_tab3_editable-pages-prices-contac.png)
+![вкладка: editable pages prices contac](02_dash1_tab3_editable-pages-prices-contac.png)
 
 ### довідка CLI
 
